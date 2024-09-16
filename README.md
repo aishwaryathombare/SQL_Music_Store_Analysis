@@ -1,4 +1,4 @@
-# Music Store Analysis Project
+# SQL Music Store Analysis Project
 
 This project involves a comprehensive analysis of a music store's dataset using SQL, aimed at extracting key insights into sales trends, customer behavior patterns, and inventory management. The analysis was carried out with PostgreSQL and PgAdmin as the primary tools.
 

@@ -5,7 +5,7 @@ This project involves a comprehensive analysis of a music store's dataset using 
 ## Tools and Technologies
 
 - **Database**: PostgreSQL
-- **IDE**: PgAdmin
+- **IDE**: PgAdmin4
 - **Language**: SQL
 
 ## Project Overview

@@ -3,7 +3,7 @@
 select employee_id, first_name, last_name, levels from employee Order By levels Desc limit 1;
 
 /* Q2: Which countries have the most Invoices? */
-SELECT   billing_country, count(billing_country) as cbc from invoice Group By billing_country Order By cbc Desc;
+SELECT billing_country, count(billing_country) as cbc from invoice Group By billing_country Order By cbc Desc;
 
 /* Q3: What are top 3 values of total invoice? */
 SELECT invoice_id, total from invoice Order By total Desc Limit 3;
